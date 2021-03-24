@@ -9,4 +9,5 @@ e.g. getFacotial(), sin(), cos()
 ### connect me via 
 [My facebook ](https://www.facebook.com/vi.vu.102977)  
 [My email ](linhnttse140822@fpt.vn)
-© 2021 thuylinh
+© 2021 linhntt
+
